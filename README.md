@@ -1,2 +1,2 @@
 # zacharyzimm.github.io
-Welcome to my page!
+Hey there 👋 I'm Zach! Welcome to my Github.
