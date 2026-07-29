@@ -108,12 +108,13 @@ body::before {
 
 /* ---------- masthead ---------- */
 .site-title {
-  margin: 0;
+  margin: 0 0 1.5rem;
   padding-bottom: 1.25rem;
   border-bottom: 1px solid var(--border);
-  font-size: clamp(1.1rem, 3.2vw, 1.4rem);
-  font-weight: 620;
-  letter-spacing: -0.015em;
+  font-size: clamp(1.6rem, 5vw, 2.25rem);
+  font-weight: 680;
+  letter-spacing: -0.025em;
+  text-align: center;
   color: var(--accent);
 }
 
